@@ -1,6 +1,6 @@
 {
   "name": "bv_test",
-  "homepage": "https://concretefrost.github.io/dev_test/",
+  "homepage": "https://concretefrost.github.io/dev_test/public/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
