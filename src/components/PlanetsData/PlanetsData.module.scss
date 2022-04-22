@@ -1,0 +1,28 @@
+.container{
+    margin-top: 45px;
+}
+
+.table_container{
+    table-layout: fixed;
+    width: 100%;
+}
+
+.table_body tr:nth-child(even){
+    background-color: rgb(182, 182, 182);
+}
+
+.table_body td{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.table_head{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    
+}
+
+.table_head th{
+    padding-left: 10px;
+    padding-right: 10px;
+}
